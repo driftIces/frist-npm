@@ -1,0 +1,25 @@
+{
+  "name": "frist-npm",
+  "version": "1.0.0",
+  "description": "zool-go",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/driftIces/frist-npm.git"
+  },
+  "author": "ice",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/driftIces/frist-npm/issues"
+  },
+  "bin": {
+    "frist-npm": "./index.js"
+  },
+  "homepage": "https://github.com/driftIces/frist-npm#readme",
+  "dependencies": {
+    "commander": "^7.0.0"
+  }
+}

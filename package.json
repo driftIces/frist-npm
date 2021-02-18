@@ -1,6 +1,6 @@
 {
   "name": "open-mpweixin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "auto open weixin",
   "main": "index.js",
   "scripts": {
